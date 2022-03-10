@@ -1,10 +1,11 @@
 # REDI Data Circle Project 1: 
-## HOUSEPRICE PREDICTION WITH MULTI-OUTPUT & MIXED DATA MODEL
+## House Price Prediction with Multi Input Model & Mixed Data
 
- <p align="left">
-  <img src="https://drive.google.com/open?id=1ZojACGbnTiONRN_K0vgyBMf0y6o5AmLI">
+
+ <p align="center">
+  <img src="https://github.com/nonafalaki/Multimodal-Framework/blob/main/Structure.png" width="25%" height="25%">
  </p>
-  <p align="centre">
+  <p align="center">
   <img src="https://pyimagesearch.com/wp-content/uploads/2019/01/keras_regression_dataset.png" width="25%" height="25%">
   </p>
   
